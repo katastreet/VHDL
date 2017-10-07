@@ -1,0 +1,30 @@
+Command line:
+   tb_vgaText3_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57925
+
+Fri Aug 11 13:13:12 2017
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 259.797 Meg
+
+ Total Signals          : 122
+ Total Nets             : 33050
+ Total Signal Drivers   : 58
+ Total Blocks           : 16
+ Total Primitive Blocks : 10
+ Total Processes        : 26
+ Total Traceable Variables  : 71
+ Total Scalar Nets and Variables : 34240
+Total Line Count : 325
+Total Line Count : 325
+
+ Total Simulation Time: 134.38 sec
+
+ Current Memory Usage: 511.152 Meg
+
+Fri Aug 11 13:15:38 2017
+

@@ -1,0 +1,121 @@
+ISim log file
+Running: /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/tb_vgaText3_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/tb_vgaText3_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+at 3508930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 3508950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 5918290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 5918310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 8299970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 8299990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 20308930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 20308950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 22718290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 22718310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 25099970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 25099990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 37108930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 37108950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 39518290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 39518310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 41899970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 41899990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 53908930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 53908950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 56318290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 56318310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 58699970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 58699990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 70708930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 70708950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 73118290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 73118310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 75499970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 75499990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 87508930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 87508950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 89918290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 89918310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 92299970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 92299990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 104308930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 104308950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 106718290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 106718310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 109099970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 109099990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 121108930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 121108950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 123518290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 123518310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 125899970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 125899990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 137908930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 137908950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 140318290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 140318310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 142699970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 142699990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 154708930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 154708950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 157118290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 157118310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 159499970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 159499990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 171508930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 171508950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 173918290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 173918310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 176299970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 176299990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 188308930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 188308950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 190718290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 190718310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 193099970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 193099990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 205108930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 205108950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 207518290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 207518310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 209899970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 209899990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 221908930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 221908950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 224318290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 224318310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 226699970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 226699990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 238708930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 238708950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 241118290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 241118310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 243499970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 243499990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 255508930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 255508950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 257918290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 257918310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 260299970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 260299990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 272308930 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 272308950 ns(1), Instance /tb_vgatext3/uut/textDrawElement/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 274718290 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 274718310 ns(1), Instance /tb_vgatext3/uut/textDrawElement3/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 277099970 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+at 277099990 ns(1), Instance /tb_vgatext3/uut/textDrawElement2/ : Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+Stopped at time : 286935270 ns : File "/home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/tb_vgaText3.vhd" Line 141
+# exit 0

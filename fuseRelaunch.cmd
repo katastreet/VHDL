@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/tb_vgaText3_isim_beh.exe" -prj "/home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/tb_vgaText3_beh.prj" "work.tb_vgaText3" 

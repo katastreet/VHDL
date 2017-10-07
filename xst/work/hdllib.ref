@@ -1,0 +1,12 @@
+AR blockramarbiter behavioral /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/BlockRamArbiter.vhd sub00/vhpl07 1502432899
+PH commonpak NULL /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/commonPak.vhd sub00/vhpl00 1502432892
+EN basicblockram NULL /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/basicBlockRAM.vhd sub00/vhpl02 1502432894
+EN blockramarbiter NULL /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/BlockRamArbiter.vhd sub00/vhpl06 1502432898
+PB commonpak commonpak /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/commonPak.vhd sub00/vhpl01 1502432893
+AR fontrom behavioral /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/fontROM.vhd sub00/vhpl05 1502432897
+EN vgatext_top NULL /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/vgaText_top.vhd sub00/vhpl10 1502432902
+AR vgatext_top behavioral /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/vgaText_top.vhd sub00/vhpl11 1502432903
+AR text_line behavioral /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/text_line.vhd sub00/vhpl09 1502432901
+EN fontrom NULL /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/fontROM.vhd sub00/vhpl04 1502432896
+EN text_line NULL /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/text_line.vhd sub00/vhpl08 1502432900
+AR basicblockram behavioral /home/satyarth/Documents/VHDL/FP-V-GA-Text-master/vgaText/basicBlockRAM.vhd sub00/vhpl03 1502432895
